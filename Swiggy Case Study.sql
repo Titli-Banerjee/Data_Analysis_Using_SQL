@@ -1,3 +1,4 @@
+
 CREATE TABLE users (
     user_id INTEGER PRIMARY KEY,
     name VARCHAR(20),
