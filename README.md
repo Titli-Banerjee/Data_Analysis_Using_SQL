@@ -1,2 +1,2 @@
-# Data_Analysis_Using_SQL
+# Swiggy Data Analysis using SQL
 This repository contains SQL Data Analysis files
